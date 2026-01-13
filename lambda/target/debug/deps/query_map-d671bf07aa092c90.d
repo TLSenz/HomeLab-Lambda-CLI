@@ -1,0 +1,10 @@
+/home/thalium/HomeLab/aws-lambda/lambda/target/debug/deps/query_map-d671bf07aa092c90.d: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/mod.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v1.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v2.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/standard.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/url_query.rs
+
+/home/thalium/HomeLab/aws-lambda/lambda/target/debug/deps/libquery_map-d671bf07aa092c90.rmeta: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/mod.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v1.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v2.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/standard.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/url_query.rs
+
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/lib.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/mod.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v1.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/aws_api_gateway_v2.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/serde/standard.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/query_map-0.7.0/src/url_query.rs:

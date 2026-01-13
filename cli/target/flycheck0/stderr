@@ -1,0 +1,52 @@
+   0.086821600s  INFO prepare_target{force=false package_id=homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli) target="homelab"}: cargo::core::compiler::fingerprint: fingerprint error for homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli)/Check { test: false }/TargetInner { name: "homelab", doc: true, ..: with_path("/home/thalium/HomeLab/aws-lambda/cli/src/main.rs", Edition2021) }
+   0.086837240s  INFO prepare_target{force=false package_id=homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli) target="homelab"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/thalium/HomeLab/aws-lambda/cli/target/debug/.fingerprint/homelab-cli-67c99e5468f53e15/bin-homelab`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: __libc_start_main
+  16: <unknown>
+   0.092061427s  INFO prepare_target{force=false package_id=homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli) target="homelab"}: cargo::core::compiler::fingerprint: fingerprint error for homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli)/Check { test: true }/TargetInner { name: "homelab", doc: true, ..: with_path("/home/thalium/HomeLab/aws-lambda/cli/src/main.rs", Edition2021) }
+   0.092071217s  INFO prepare_target{force=false package_id=homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli) target="homelab"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/thalium/HomeLab/aws-lambda/cli/target/debug/.fingerprint/homelab-cli-099243c813a91a68/test-bin-homelab`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: __libc_start_main
+  16: <unknown>
+    Checking homelab-cli v0.1.0 (/home/thalium/HomeLab/aws-lambda/cli)
+error: could not compile `homelab-cli` (bin "homelab") due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `homelab-cli` (bin "homelab" test) due to 2 previous errors

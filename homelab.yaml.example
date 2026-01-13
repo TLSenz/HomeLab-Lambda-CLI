@@ -1,0 +1,19 @@
+# Example Homelab Configuration
+
+# API endpoint for your deployed Lambda
+api_url: "https://your-api-gateway-url.execute-api.us-east-1.amazonaws.com/dev"
+
+# Timeout for HTTP requests (seconds)
+timeout_seconds: 30
+
+# Default AWS region
+region: "us-east-1"
+
+# Server configurations (optional - can be managed via CLI)
+servers:
+  - name: "web-server"
+    config_file_path: "/etc/nixos/web-server.nix"
+    description: "Main web server running Nginx"
+  - name: "database-server"
+    config_file_path: "/etc/nixos/database.nix"
+    description: "PostgreSQL database server"

@@ -1,0 +1,14 @@
+/home/thalium/HomeLab/aws-lambda/cli/target/debug/deps/serde-d7c30d9bc3d31148.d: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/thalium/HomeLab/aws-lambda/cli/target/debug/build/serde-3ef6b37478fdd618/out/private.rs
+
+/home/thalium/HomeLab/aws-lambda/cli/target/debug/deps/libserde-d7c30d9bc3d31148.rlib: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/thalium/HomeLab/aws-lambda/cli/target/debug/build/serde-3ef6b37478fdd618/out/private.rs
+
+/home/thalium/HomeLab/aws-lambda/cli/target/debug/deps/libserde-d7c30d9bc3d31148.rmeta: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/thalium/HomeLab/aws-lambda/cli/target/debug/build/serde-3ef6b37478fdd618/out/private.rs
+
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/thalium/HomeLab/aws-lambda/cli/target/debug/build/serde-3ef6b37478fdd618/out/private.rs:
+
+# env-dep:OUT_DIR=/home/thalium/HomeLab/aws-lambda/cli/target/debug/build/serde-3ef6b37478fdd618/out

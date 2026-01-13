@@ -1,0 +1,10 @@
+/home/thalium/HomeLab/aws-lambda/lambda/target/debug/deps/aws_smithy_json-11ffafb338f67a75.d: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/error.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/token.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/escape.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/serialize.rs
+
+/home/thalium/HomeLab/aws-lambda/lambda/target/debug/deps/libaws_smithy_json-11ffafb338f67a75.rmeta: /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/lib.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/error.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/token.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/escape.rs /home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/serialize.rs
+
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/lib.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/error.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/deserialize/token.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/escape.rs:
+/home/thalium/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-smithy-json-0.61.9/src/serialize.rs:
