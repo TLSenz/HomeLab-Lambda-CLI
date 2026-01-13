@@ -1,6 +1,0 @@
-    Updating crates.io index
-error: no matching package found
-searched package name: `aws_lambda_runtime`
-perhaps you meant:      aws-lambda-runtime
-location searched: crates.io index
-required by package `homelab-lambda v0.1.0 (/home/thalium/HomeLab/aws-lambda/lambda)`
